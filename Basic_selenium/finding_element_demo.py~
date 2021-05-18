@@ -1,0 +1,12 @@
+from selenium import webdriver
+
+class Find_id_name:
+    baseurl = "https://www.facebook.com/"
+    driver = webdriver.Firefox()
+    driver.get(baseurl)
+    elementid = driver.find_element_by_id("email")
+    if elementid is not None:
+        print("we found the webelement by ID ")
+    elementname = driver.find_element_by_name("")
+
+

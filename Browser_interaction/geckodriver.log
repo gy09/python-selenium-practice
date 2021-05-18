@@ -1,0 +1,140 @@
+1617952401133	geckodriver	INFO	Listening on 127.0.0.1:52400
+1617952404284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilegSxFWl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617952416284	Marionette	INFO	Listening on port 52408
+1617952419378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617952434837	Marionette	INFO	Stopped listening on port 52408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617952643496	geckodriver	INFO	Listening on 127.0.0.1:52525
+1617952646482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileBNbhOm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617952651274	Marionette	INFO	Listening on port 52534
+1617952652021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617952661566	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2541:11
+1617952667848	Marionette	INFO	Stopped listening on port 52534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617960855886	geckodriver	INFO	Listening on 127.0.0.1:57559
+1617960859629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile0xVHAO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617960877587	Marionette	INFO	Listening on port 57567
+[Parent 18344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617960878768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: , line 0: uncaught exception: Object
+out of memory: 0x0000000000001000 bytes requested
+Exiting due to channel error.
+r::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileIaKEI9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 21172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617961016729	Marionette	INFO	Listening on port 57722
+1617961016846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617961023343	geckodriver	INFO	Listening on 127.0.0.1:57781
+1617961026446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileCuvKZP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617961034077	Marionette	INFO	Listening on port 57789
+1617961034428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: , line 0: uncaught exception: out of memory
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+1617968956683	Marionette	INFO	Stopped listening on port 57789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618051282711	geckodriver	INFO	Listening on 127.0.0.1:58700
+1618051286151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile6ThZ3J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618051333182	Marionette	INFO	Listening on port 58708
+1618051333688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validateuserid is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+JavaScript error: http://demo.guru99.com/test/selenium-xpath.html, line 1: ReferenceError: validatepassword is not defined
+1618051377122	Marionette	INFO	Stopped listening on port 58708
+1618126550784	geckodriver	INFO	Listening on 127.0.0.1:50057
+1618126553888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilelgJx49"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 169: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.

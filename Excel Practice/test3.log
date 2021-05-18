@@ -1,0 +1,4 @@
+05092021 121051:INFO:This is an information message 
+05092021 121051:WARNING:This is a warning message 
+05092021 121051:ERROR:This is an error message
+05092021 121051:CRITICAL:This is a critical message 

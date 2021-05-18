@@ -1,0 +1,897 @@
+1617549703960	geckodriver	INFO	Listening on 127.0.0.1:50177
+1617549706991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileX1D9kT"
+1617549755985	geckodriver	INFO	Listening on 127.0.0.1:50229
+1617549759032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile9HNYNZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617549765759	Marionette	INFO	Listening on port 50237
+1617549766534	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617550252652	Marionette	INFO	Stopped listening on port 50237
+ground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilew3i7uv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617550042208	Marionette	INFO	Listening on port 50327
+1617550042674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617550251895	Marionette	INFO	Stopped listening on port 50327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilerY7l7p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617550088153	Marionette	INFO	Listening on port 50400
+1617550088850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617550249464	Marionette	INFO	Stopped listening on port 50400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+1617556740566	geckodriver	INFO	Listening on 127.0.0.1:49927
+1617556743487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileCcOQPn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617556767826	Marionette	INFO	Listening on port 49935
+1617556768743	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+1617556785879	Marionette	INFO	Stopped listening on port 49935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617556797884	geckodriver	INFO	Listening on 127.0.0.1:50009
+1617556800945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile1AKT5X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617556810310	Marionette	INFO	Listening on port 50017
+1617556810518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1617556817605	Marionette	INFO	Stopped listening on port 50017
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617602711077	geckodriver	INFO	Listening on 127.0.0.1:62164
+1617602714111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileXtCXHM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617602722052	Marionette	INFO	Listening on port 62173
+1617602722540	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 13304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617607416125	Marionette	INFO	Stopped listening on port 62173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617606708422	Marionette	INFO	Listening on port 65285
+1617606709386	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\gaura\AppData\Local\Temp\rust_mozprofilegr200t\crashes\store.json.mozlz4.tmp) to destination(C:\Users\gaura\AppData\Local\Temp\rust_mozprofilegr200t\crashes\store.json.mozlz4)
+JavaScript error: , line 0: uncaught exception: Object
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617607416049	Marionette	INFO	Stopped listening on port 65285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilee8AwYv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 17396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617607002079	geckodriver	INFO	Listening on 127.0.0.1:65525
+1617607005192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile2A1Gln"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617607010647	Marionette	INFO	Listening on port 65534
+1617607011016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1617607411793	Marionette	INFO	Stopped listening on port 65534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileRCpZnf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 17392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (Intel(R) HD Graphics 620 Direct3D11 vs_5_0 ps_5_0)
+
+[2021-04-05T07:20:13Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (Intel(R) HD Graphics 620 Direct3D11 vs_5_0 ps_5_0)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2021-04-05T07:20:13Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile shader: gpu_cache_update
+
+[2021-04-05T07:20:13Z ERROR webrender::device::gl] Failed to compile shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: RcANGLE(waiting device reset)
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Compositors might be mixed (5,1)
+1617607215298	Marionette	INFO	Listening on port 49336
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1186
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1186
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617607386699	geckodriver	INFO	Listening on 127.0.0.1:49467
+1617607389771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileDvLxCH"
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-05T07:23:12Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Compositors might be mixed (5,1)
+JavaScript error: , line 0: uncaught exception: out of memory
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Failed buffer for 0, 0, 1366, 736
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requestedout of memory: 0x0000000000001000 bytes requested
+
+out of memory: 0x0000000000001038 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+[GPU 14064, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1617607486499	geckodriver	INFO	Listening on 127.0.0.1:49525
+1617607490208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilefGXkCD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617607495649	Marionette	INFO	Listening on port 49533
+1617607496041	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617614077149	Marionette	INFO	Stopped listening on port 49533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofile9fnus3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617607555711	Marionette	INFO	Listening on port 49620
+1617607555745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617607565786	Marionette	INFO	Stopped listening on port 49620
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617617208070	geckodriver	INFO	Listening on 127.0.0.1:56046
+1617617211115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile0LhO1f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617617219606	Marionette	INFO	Listening on port 56056
+1617617219764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617617659537	Marionette	INFO	Stopped listening on port 56056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile9nIFke"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617617298701	Marionette	INFO	Listening on port 56199
+1617617299017	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617617663698	Marionette	INFO	Stopped listening on port 56199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileBDf629"
+[GFX1-]: Failed to link shader program: ps_text_run
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with default flags. (ps_5_0)
+ Retrying with skip validation
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with skip validation flags. (ps_5_0)
+ Retrying with skip optimization
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with skip optimization flags. (ps_5_0)
+
+Failed to create D3D Shaders
+
+[2021-04-05T10:09:39Z ERROR webrender::device::gl] Failed to link shader program: ps_text_run
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with default flags. (ps_5_0)
+     Retrying with skip validation
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with skip validation flags. (ps_5_0)
+     Retrying with skip optimization
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with skip optimization flags. (ps_5_0)
+    
+    Failed to create D3D Shaders
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-05T10:09:39Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+[GFX1-]: wr_renderer_render: Shader(Link("ps_text_run", "error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with default flags. (ps_5_0)\n Retrying with skip validation\nerror X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with skip validation flags. (ps_5_0)\n Retrying with skip optimization\nerror X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with skip optimization flags. (ps_5_0)\n\nFailed to create D3D Shaders\n"))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1366, 736
+1617617489517	geckodriver	INFO	Listening on 127.0.0.1:56399
+1617617492550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileMkjzm0"
+uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000100000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+[GPU 8400, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618126567398	geckodriver	INFO	Listening on 127.0.0.1:50080
+1618126570436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileWy3JZI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1618126576847	Marionette	INFO	Listening on port 50088
+1618126576920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618126620789	Marionette	INFO	Stopped listening on port 50088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618126626132	geckodriver	INFO	Listening on 127.0.0.1:50131
+1618126629208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilelTQrLf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1618126638348	geckodriver	INFO	Listening on 127.0.0.1:50162
+1618126641429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileLDKrkL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618126647854	Marionette	INFO	Listening on port 50173
+1618126648398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\gaura\AppData\Local\Temp\rust_mozprofileLDKrkL\crashes\store.json.mozlz4.tmp) to destination(C:\Users\gaura\AppData\Local\Temp\rust_mozprofileLDKrkL\crashes\store.json.mozlz4)
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: Object
+1618127415040	Marionette	INFO	Stopped listening on port 50173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618127342662	geckodriver	INFO	Listening on 127.0.0.1:58363
+1618127345730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofiletnvU5u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618127354226	Marionette	INFO	Listening on port 58372
+1618127354295	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+execute@resource://services-common/kinto-http-client.js:2400:44
+_fetchChangeset@resource://services-settings/RemoteSettingsClient.jsm:1038:22
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:8901618127753580	Marionette	INFO	Stopped listening on port 58466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/rec1618127753628	Marionette	INFO	Stopped listening on port 58372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618127585106	Marionette	INFO	Listening on port 58560
+1618127585727	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618127753048	Marionette	INFO	Stopped listening on port 58560
+8127708173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile11YpuJ"
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000040 bytes requested
+[GFX1-]: Failed to link shader program: cs_clip_rectangle
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to link shader program: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_blur
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_blur
+    
+[GFX1-]: Failed to compile shader: cs_blur
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_blur
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: cs_border_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_border_solid
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: cs_border_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_border_solid
+    
+[GFX1-]: Failed to compile shader: cs_gradient
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_gradient
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_clip_box_shadow
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_box_shadow
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: ps_clear
+
+[[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: ps_clear
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: ps_clear
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-11T07:55:11Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: wr_renderer_render: Shader(Link("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_gradient", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: Compositors might be mixed (5,1)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618127716513	Marionette	INFO	Listening on port 58664
+1618127716657	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+out of memory: 0x0000000000002000 bytes requested
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000020 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+1618127764281	geckodriver	INFO	Listening on 127.0.0.1:58727
+1618127767342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileuHSGDS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618127774305	Marionette	INFO	Listening on port 58735
+1618127775706	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618292201129	Marionette	INFO	Stopped listening on port 58735
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileYBVlfQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618127948626	Marionette	INFO	Listening on port 58825
+1618127948840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\gaura\AppData\Local\Temp\rust_mozprofileYBVlfQ\crashes\store.json.mozlz4.tmp) to destination(C:\Users\gaura\AppData\Local\Temp\rust_mozprofileYBVlfQ\crashes\store.json.mozlz4)
+[Parent 15052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618128231056	Marionette	INFO	Stopped listening on port 58825
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618128015636	Marionette	INFO	Listening on port 58916
+1618128015908	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618128228969	Marionette	INFO	Stopped listening on port 58916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileYneLml"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 16340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618128115846	Marionette	INFO	Listening on port 59008
+1618128116007	Marionette	WARN	TLS certificate errors will be ignored for this session
+out of memory: 0x00000000000000A8 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230080,name=PBrowser::Msg_SynthMouseMoveEvent) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+out of memory: 0x0000000000000080 bytes requested
+out of memory: 0x0000000000000080 bytes requested
+1618128143872	geckodriver	INFO	Listening on 127.0.0.1:59040
+1618128146933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileKyncBk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 15972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618128154182	Marionette	INFO	Listening on port 59048
+1618128154385	Marionette	WARN	TLS certificate errors will be ignored for this session
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1186
+1618128207335	geckodriver	INFO	Listening on 127.0.0.1:59115
+1618128210410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileGI0LKH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618128216325	Marionette	INFO	Listening on port 59123
+1618128216740	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.jsm", 893))
+out of memory: 0x0000000000000040 bytes requested
+out of memory: 0x0000000000000040 bytes requested
+out of memory: 0x0000000000000038 bytes requested
+out of memory: 0x0000000000000068 bytes requested
+Exiting due to channel error.
+1618128244838	geckodriver	INFO	Listening on 127.0.0.1:59152
+1618128247939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile19BfMl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618128254122	Marionette	INFO	Listening on port 59160
+1618128254261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618128268997	Marionette	INFO	Stopped listening on port 59160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131579955	geckodriver	INFO	Listening on 127.0.0.1:59411
+1618131582939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofile37QbPB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131589484	Marionette	INFO	Listening on port 59420
+1618131589874	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: Object
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1618292171879	Marionette	INFO	Stopped listening on port 59420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ning on port 59508
+1618131639971	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12480, MediaDecoderStateMachine #1] WARNING: Decoder=271db025400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12480, MediaDecoderStateMachine #1] WARNING: Decoder=271db025400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+out of memory: 0x0000000000000FF0 bytes requested
+out of memory: 0x0000000000000078 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10472, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 10472, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618131648873	Marionette	INFO	Stopped listening on port 59508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131737501	geckodriver	INFO	Listening on 127.0.0.1:59570
+1618131740357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileHpHYkH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131746992	Marionette	INFO	Listening on port 59578
+1618131747302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618131758224	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2541:11
+out of memory: 0x0000000000000188 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+ "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileaxWcHs"
+out of memory: 0x0000000000000058 bytes requested
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540032,name=PGPU::Msg_UpdateMediaCodecsSupported) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1618131823916	geckodriver	INFO	Listening on 127.0.0.1:59672
+1618131827091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileyfazSN"
+[Parent 13008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131833446	Marionette	INFO	Listening on port 59680
+1618131833621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618131843433	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2541:11
+1618131852414	Marionette	INFO	Stopped listening on port 59680
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618294917852	geckodriver	INFO	Listening on 127.0.0.1:54708
+1618294920780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilem9PPIX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618294936286	Marionette	INFO	Listening on port 54716
+1618294937652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618294947969	Marionette	INFO	Stopped listening on port 54716
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 18008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618466390185	geckodriver	INFO	Listening on 127.0.0.1:54770
+1619252675147	geckodriver	INFO	Listening on 127.0.0.1:57662
+1619252678313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileT6CwVj"
+1619252722197	geckodriver	INFO	Listening on 127.0.0.1:57721
+1619252725250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileVx6Ecw"
+1619252726244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619252734244	Marionette	INFO	Listening on port 57729
+1619252734328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619253419322	Marionette	INFO	Stopped listening on port 57729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilesNgebY"
+1619252801291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619252807312	Marionette	INFO	Listening on port 57839
+1619252807474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\gaura\AppData\Local\Temp\rust_mozprofilesNgebY\crashes\store.json.mozlz4.tmp) to destination(C:\Users\gaura\AppData\Local\Temp\rust_mozprofilesNgebY\crashes\store.json.mozlz4)
+1619252957297	Marionette	INFO	Stopped listening on port 57839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619259931087	geckodriver	INFO	Listening on 127.0.0.1:59296
+1619259933900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilevHitIT"
+1619259942195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619259957706	Marionette	INFO	Listening on port 59305
+1619259958332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619260142312	Marionette	INFO	Stopped listening on port 59305
+9260018894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofilesN0olJ"
+1619260022839	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619260079849	Marionette	INFO	Listening on port 59420
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+1619260142288	Marionette	INFO	Stopped listening on port 59420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
